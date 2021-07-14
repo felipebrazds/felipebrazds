@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ofelpsbraz" target="blank"><img src="https://img.shields.io/twitter/follow/ofelpsbraz?logo=twitter&style=for-the-badge" alt="ofelpsbraz" /></a> </p>
 
-- 🔭 I’m currently working on [Duo Branding](duobranding.me)
+- 🔭 I’m currently working on [Duo Branding](duobranding.me) as a web developer and digital strategist
 
 - 🌱 I’m currently learning **NodeJS, React and React Native.**
 
@@ -11,21 +11,21 @@
 
 - 👨‍💻 All of my projects are available at [duobranding.me/cases](duobranding.me/cases)
 
-- 📝 I regularly write articles on [https://medium.com/@fbraz.12](https://medium.com/@fbraz.12)
+- 📝 I regularly write articles on [https://medium.com/@felipebrazds](https://medium.com/@felipebrazds)
 
 - 💬 Ask me about **HTML5, CSS3 and JavaScript.**
 
 - 📫 How to reach me **fbraz.12@gmail.com**
 
-- 📄 Know about my experiences [duobranding.me/felipebrazcv](duobranding.me/felipebrazcv)
+- 📄 Know about my experiences [duobranding.me/felipebrazds](duobranding.me/felipebrazds)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mrfelps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrfelps" height="30" width="40" /></a>
 <a href="https://twitter.com/ofelpsbraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ofelpsbraz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felipebrazdasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipebrazdasilva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipebrazds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipebrazds" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/90350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="90350" height="30" width="40" /></a>
-<a href="https://fb.com/felipe.braz.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.braz.12" height="30" width="40" /></a>
+<a href="https://fb.com/felipebrazds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipebrazds" height="30" width="40" /></a>
 <a href="https://instagram.com/felipebrazds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipebrazds" height="30" width="40" /></a>
 <a href="https://www.behance.net/felipebraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="felipebraz" height="30" width="40" /></a>
 </p>
