@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Braz</h1>
 <h3 align="center">A passionate frontend developer from Brazil.</h3>
 
-<p align="left"> <a href="https://twitter.com/felipebrazds" target="blank"><img src="https://img.shields.io/twitter/follow/ofelpsbraz?logo=twitter&style=for-the-badge" alt="felipebrazds" /></a> </p>
+<p align="left"> <a href="https://twitter.com/felipebrazds" target="blank"><img src="https://img.shields.io/twitter/follow/felipebrazds?logo=twitter&style=for-the-badge" alt="felipebrazds" /></a> </p>
 
 - 🔭 I’m currently working on [Duo Branding](duobranding.me) as a web developer and digital strategist
 
