@@ -3,21 +3,21 @@
 
 <p align="left"> <a href="https://twitter.com/felipebrazds" target="blank"><img src="https://img.shields.io/twitter/follow/felipebrazds?logo=twitter&style=for-the-badge" alt="felipebrazds" /></a> </p>
 
-- 🔭 I’m currently working on [Duo Branding](duobranding.me) as a web developer and digital strategist
+- 🔭 I’m currently working on [MKT Produtivo](www.mktprodutivo.com.br) as a digital strategist and web developer.
 
 - 🌱 I’m currently learning **NodeJS, React and React Native.**
 
 - 🤝 I’m looking for help with **Front End Development using HTML5, CSS3 and JS**
 
-- 👨‍💻 All of my projects are available at [duobranding.me/cases](duobranding.me/cases)
+- 👨‍💻 All of my projects are available at [mktprodutivo.com.br/bio](mktprodutivo.com.br/bio)
 
-- 📝 I regularly write articles on [https://medium.com/@felipebrazds](https://medium.com/@felipebrazds)
+- 📝 I write articles on [https://medium.com/@felipebrazds](https://medium.com/@felipebrazds)
 
 - 💬 Ask me about **HTML5, CSS3 and JavaScript.**
 
-- 📫 How to reach me **fbraz.12@gmail.com**
+- 📫 How to reach me **fbrazdigital@gmail.com**
 
-- 📄 Know about my experiences [duobranding.me/felipebrazds](duobranding.me/felipebrazds)
+- 📄 Know about my experiences [mktprodutivo.com.br](mktprodutivo.com.br)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
