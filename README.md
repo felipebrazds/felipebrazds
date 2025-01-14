@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/felipebrazds" target="blank"><img src="https://img.shields.io/twitter/follow/felipebrazds?logo=twitter&style=for-the-badge" alt="felipebrazds" /></a> </p>
 
-- 🔭 I’m currently working on [MKT Produtivo](www.mktprodutivo.com.br) as a digital strategist and web developer.
+- 🔭 I’m currently developing personal projects and helping clients as a digital strategist.
 
 - 🌱 I’m currently learning **NodeJS, React and React Native.**
 
