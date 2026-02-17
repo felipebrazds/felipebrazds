@@ -1,38 +1,79 @@
-<h1 align="center">Hi 👋, I'm Felipe Braz</h1>
-<h3 align="center">A passionate frontend developer from Brazil.</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=AI+Tech+Lead;Building+SaaS+%26+AI+Solutions;Vibe+Coding+%26+Digital+Strategy" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/felipebrazds" target="blank"><img src="https://img.shields.io/twitter/follow/felipebrazds?logo=twitter&style=for-the-badge" alt="felipebrazds" /></a> </p>
+<h3 align="center">Hi there! 👋 I'm Felipe Braz</h3>
 
-- 🔭 I’m currently developing personal projects and helping clients as a digital strategist.
-
-- 🌱 I’m currently learning **NodeJS, React and React Native.**
-
-- 🤝 I’m looking for help with **Front End Development using HTML5, CSS3 and JS**
-
-- 👨‍💻 All of my projects are available at [mktprodutivo.com.br/bio](mktprodutivo.com.br/bio)
-
-- 📝 I write articles on [https://medium.com/@felipebrazds](https://medium.com/@felipebrazds)
-
-- 💬 Ask me about **HTML5, CSS3 and JavaScript.**
-
-- 📫 How to reach me **fbrazdigital@gmail.com**
-
-- 📄 Know about my experiences [mktprodutivo.com.br](mktprodutivo.com.br)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mrfelps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrfelps" height="30" width="40" /></a>
-<a href="https://twitter.com/felipebrazds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipebrazds" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felipebrazds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipebrazds" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/90350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="90350" height="30" width="40" /></a>
-<a href="https://fb.com/felipebrazds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipebrazds" height="30" width="40" /></a>
-<a href="https://instagram.com/felipebrazds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipebrazds" height="30" width="40" /></a>
-<a href="https://www.behance.net/felipebraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="felipebraz" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/felipebrazds" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@felipebrazds" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:fbrazdigital@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://mktprodutivo.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipebrazds&show_icons=true&locale=en&layout=compact" alt="felipebrazds" /></p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🇺🇸 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently building <b>VigorHub</b> (for Vigor Energy), launching my company <b>Buildn</b>, and developing the micro-SaaS <b>Rifa do Baby</b>.</li>
+        <li>⚡ My main focus is on <b>AI-assisted development (Vibe Code)</b>, digital strategy, and scalable platforms.</li>
+        <li>🌱 Continuously exploring <b>Next.js, Python, and AI integrations</b> (OpenAI, Vercel AI SDK).</li>
+        <li>📝 I write articles on <a href="https://medium.com/@felipebrazds">Medium</a>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🇧🇷 Sobre Mim</h3>
+      <ul>
+        <li>🔭 Atualmente desenvolvendo o <b>VigorHub</b> (para a Vigor Energy), estruturando minha empresa <b>Buildn</b>, e criando o micro-SaaS <b>Rifa do Baby</b>.</li>
+        <li>⚡ Meu foco é em <b>programação assistida por IA (Vibe Code)</b>, estratégia digital e plataformas escaláveis.</li>
+        <li>🌱 Explorando continuamente <b>Next.js, Python e integrações com IA</b> (OpenAI, Vercel AI SDK).</li>
+        <li>📝 Escrevo artigos no <a href="https://medium.com/@felipebrazds">Medium</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipebrazds&show_icons=true&locale=en" alt="felipebrazds" /></p>
+---
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipebrazds&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Felipe's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipebrazds&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Felipe's Top Languages" />
+</div>
